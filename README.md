@@ -10,4 +10,4 @@ Another ooo
 1. Open index.html new feature
 2. Free seventy
 3. Edit oooo
-4. Lover
+4. Lovers
