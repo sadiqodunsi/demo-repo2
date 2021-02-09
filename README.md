@@ -8,4 +8,5 @@ Update readme
 Another ooo
 
 1. Open index.html new feature
-2. Pree seventy
+2. Free seventy
+3. Edit ooo
